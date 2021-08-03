@@ -1,0 +1,13 @@
+C:\Users\SATYAM VAISHNAV\day3\line_comparision_programme\Line_comparision_problem\Line_comparision_problem\bin\Debug\netcoreapp3.1\Line_comparision_problem.exe
+C:\Users\SATYAM VAISHNAV\day3\line_comparision_programme\Line_comparision_problem\Line_comparision_problem\bin\Debug\netcoreapp3.1\Line_comparision_problem.deps.json
+C:\Users\SATYAM VAISHNAV\day3\line_comparision_programme\Line_comparision_problem\Line_comparision_problem\bin\Debug\netcoreapp3.1\Line_comparision_problem.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\day3\line_comparision_programme\Line_comparision_problem\Line_comparision_problem\bin\Debug\netcoreapp3.1\Line_comparision_problem.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\day3\line_comparision_programme\Line_comparision_problem\Line_comparision_problem\bin\Debug\netcoreapp3.1\Line_comparision_problem.dll
+C:\Users\SATYAM VAISHNAV\day3\line_comparision_programme\Line_comparision_problem\Line_comparision_problem\bin\Debug\netcoreapp3.1\Line_comparision_problem.pdb
+C:\Users\SATYAM VAISHNAV\day3\line_comparision_programme\Line_comparision_problem\Line_comparision_problem\obj\Debug\netcoreapp3.1\Line_comparision_problem.csproj.AssemblyReference.cache
+C:\Users\SATYAM VAISHNAV\day3\line_comparision_programme\Line_comparision_problem\Line_comparision_problem\obj\Debug\netcoreapp3.1\Line_comparision_problem.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\day3\line_comparision_programme\Line_comparision_problem\Line_comparision_problem\obj\Debug\netcoreapp3.1\Line_comparision_problem.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\day3\line_comparision_programme\Line_comparision_problem\Line_comparision_problem\obj\Debug\netcoreapp3.1\Line_comparision_problem.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\day3\line_comparision_programme\Line_comparision_problem\Line_comparision_problem\obj\Debug\netcoreapp3.1\Line_comparision_problem.dll
+C:\Users\SATYAM VAISHNAV\day3\line_comparision_programme\Line_comparision_problem\Line_comparision_problem\obj\Debug\netcoreapp3.1\Line_comparision_problem.pdb
+C:\Users\SATYAM VAISHNAV\day3\line_comparision_programme\Line_comparision_problem\Line_comparision_problem\obj\Debug\netcoreapp3.1\Line_comparision_problem.genruntimeconfig.cache
